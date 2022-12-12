@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+
+<body background="https://images.pexels.com/photos/225203/pexels-photo-225203.jpeg?auto=compress&cs=tinysrgb&w=1100">
+
+
+
+    <p>
+        <h1 align="center">
+            <font face="arial">Code with sumit </font>
+        </h1>
+        
+        <h2 style="color: rgb(17, 17, 17);"> 
+    <br>        
+       1. <a href="https://www.google.com/">google</a>
+    <br>
+       2.  <a href="https://www.instagram.com/sumitchourasiya906/">my instagram</a>
+    <br>
+       3.  <a href="https://www.facebook.com/sumit.chourasiya.35977/">my facebook</a>
+        </h2>
+        <br><br><br>
+     <p align="center"  style="color: rgb(252, 248, 248);"  >
+        <font size="7">  
+            simple html project</font>
+    </p>
+    </p>
+    <br><br><br><br><br><br><br>
+   <marquee bgcolor="yellow">
+
+    <font size="3=4">subscribe please </font>
+
+   </marquee>
+
+
+
+</body>
+</html>
